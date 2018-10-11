@@ -6,13 +6,13 @@ namespace WorkingWithFiles
     {
         static void Main(string[] args)
         {
-            var path = @ "c:\somefile.jpg";
+            var path = @ "c:\coding3.jpg";
 
-            File.Copy(@"c:\temp\myfile.jpg", @);
+            File.Copy(@"c:\Pictures\Coding3.jpg", @"d:\Pictures\Coding3.jpg", true);
             File.Delete(path);
             if (FileStyleUriParser.Exists(path));
             {
-                
+
             }
             
             Console.WriteLine("Hello World!!!");
