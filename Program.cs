@@ -12,8 +12,10 @@ namespace WorkingWithFiles
             File.Delete(path);
             if (FileStyleUriParser.Exists(path));
             {
-
+                //
             }
+            var content = File.ReadAllText(path);
+
             
             Console.WriteLine("Hello World!!!");
         }
