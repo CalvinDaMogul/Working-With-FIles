@@ -17,7 +17,7 @@ namespace WorkingWithFiles
             var content = File.ReadAllText(path);
 
             
-            Console.WriteLine("Hello World!!!");
+            Console.WriteLine("Hello World!");
         }
     }
 }
