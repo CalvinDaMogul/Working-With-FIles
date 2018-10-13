@@ -11,7 +11,7 @@ namespace WorkingWithFiles
 
             File.Copy(@"c:\Pictures\Coding3.jpg", @"d:\Pictures\Coding3.jpg", true);
             File.Delete(path);
-            if (FileStyleUriParser.Exists(path));
+            if (File.Exists(path))
             {
                 //
             }
