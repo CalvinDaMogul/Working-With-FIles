@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 
 namespace WorkingWithFiles
 {
@@ -23,7 +24,7 @@ namespace WorkingWithFiles
             {
                 //
             }
-            
+            fileInfo.Read
 
             
             Console.WriteLine("Hello World!!!");
