@@ -19,6 +19,11 @@ namespace WorkingWithFiles
             var fileInfo = new Fileinfo(path);
             fileInfo.CopyTo("...");
             fileInfo.Delete();
+            if (fileInfo.Exists)
+            {
+                //
+            }
+            
 
             
             Console.WriteLine("Hello World!!!");
