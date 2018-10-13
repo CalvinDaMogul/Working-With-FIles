@@ -16,6 +16,10 @@ namespace WorkingWithFiles
             }
             var content = File.ReadAllText(path);
 
+            var fileInfo = new Fileinfo(path);
+            fileInfo.CopyTo("...");
+            fileInfo.Delete();
+
             
             Console.WriteLine("Hello World!!!");
         }
