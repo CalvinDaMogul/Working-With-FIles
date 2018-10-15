@@ -1,0 +1,11 @@
+C:\Users\caljf\Documents\Working_With_Files\obj\Debug\netcoreapp2.1\Working_With_Files.csprojAssemblyReference.cache
+C:\Users\caljf\Documents\Working_With_Files\obj\Debug\netcoreapp2.1\Working_With_Files.csproj.CoreCompileInputs.cache
+C:\Users\caljf\Documents\Working_With_Files\obj\Debug\netcoreapp2.1\Working_With_Files.AssemblyInfoInputs.cache
+C:\Users\caljf\Documents\Working_With_Files\obj\Debug\netcoreapp2.1\Working_With_Files.AssemblyInfo.cs
+C:\Users\caljf\Documents\Working_With_Files\bin\Debug\netcoreapp2.1\Working_With_Files.deps.json
+C:\Users\caljf\Documents\Working_With_Files\bin\Debug\netcoreapp2.1\Working_With_Files.runtimeconfig.json
+C:\Users\caljf\Documents\Working_With_Files\bin\Debug\netcoreapp2.1\Working_With_Files.runtimeconfig.dev.json
+C:\Users\caljf\Documents\Working_With_Files\bin\Debug\netcoreapp2.1\Working_With_Files.dll
+C:\Users\caljf\Documents\Working_With_Files\bin\Debug\netcoreapp2.1\Working_With_Files.pdb
+C:\Users\caljf\Documents\Working_With_Files\obj\Debug\netcoreapp2.1\Working_With_Files.dll
+C:\Users\caljf\Documents\Working_With_Files\obj\Debug\netcoreapp2.1\Working_With_Files.pdb

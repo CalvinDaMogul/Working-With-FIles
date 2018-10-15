@@ -8,24 +8,15 @@ namespace WorkingWithFiles
     {
         static void Main(string[] args)
         {
-            var path = @"c:\coding3.jpg";
+            var path = @"C:\Users\caljf\Pictures\coding3.jpg";
 
-            File.Copy(@"c:\Pictures\Coding3.jpg", @"d:\Pictures\Coding3.jpg", true);
+            File.Copy(@"C:\Users\caljf\Pictures\Coding3.jpg", @"C:\Users\caljf\Pictures\test\Coding3.jpg", true);
             File.Delete(path);
             if (File.Exists(path))
             {
                 //
             }
-            var content = File.ReadAllText(path);
-
-            var fileInfo = new Fileinfo(path);
-            fileInfo.CopyTo("...");
-            fileInfo.Delete();
-            if (fileInfo.Exists)
-            {
-                //
-            }
-            fileInfo.Read
+          
 
             
             Console.WriteLine("Hello World!!!");
