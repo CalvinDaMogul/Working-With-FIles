@@ -8,9 +8,9 @@ namespace WorkingWithFiles
     {
         static void Main(string[] args)
         {
-            var path = @"C:\Users\caljf\Pictures\coding3.jpg";
+            var path = @"C:\Users\caljf\Pictures\Cigar1.jpg";
 
-            File.Copy(@"C:\Users\caljf\Pictures\Coding3.jpg", @"C:\Users\caljf\Pictures\test\Coding3.jpg", true);
+            File.Copy(@"C:\Users\caljf\Pictures\Cigar1.jpg", @"C:\Users\caljf\Pictures\test\Cigar1.jpg", true);
             File.Delete(path);
             if (File.Exists(path))
             {
@@ -20,7 +20,7 @@ namespace WorkingWithFiles
 
             
             Console.WriteLine("Hello World!!!");
-            Console.WriteLine("Transfer Successful!");
+            Console.WriteLine("Transfer Successful!!!");
         }
     }
 }
